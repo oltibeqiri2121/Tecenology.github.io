@@ -1,0 +1,30 @@
+.menu{
+    width: 200px;
+    border: 1px solid green;
+
+}
+  .menu a{
+    color: rgb(199, 199, 158);
+  }
+.menu h3{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+
+.menu button{
+ 
+    text-decoration: none;
+    background-color: black;
+    color: white;
+   
+}
+  .shporta p{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+
+  }
+
+
